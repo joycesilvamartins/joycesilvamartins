@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Joyce!👋
 
-<!--
-**joycesilvamartins/joycesilvamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as RPA | Software Developer.
+- 🌱 I’m currently learning PHP & AHK.
+- 👯 I’m organizing and moderating meetings and discussions from Meninas em TI - Ireland group.
+- 🙆 In my spare time I like to read, cook, walk & being an amateur photographer.
+- 💬 Ask me about anything related to technology or self-knowledge. I'm happy trying to help!
+- 📫 How to reach me: joyce.apsmartins@gmail.com
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: My life turned a bit upside down when I moved to Ireland and started looking for a job in the supply chain sector. I soon realized that the IT industry was very strong here, besides that I always was interested in technologies so decided to try. Since then, I've been loving it!
 
-Here are some ideas to get you started:
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joycesilvamartins&langs_count=5&theme=monokai)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joycesilvamartins&count_private=true&theme=monokai&show_icons=true)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
